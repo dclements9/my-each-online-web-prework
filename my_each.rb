@@ -7,6 +7,6 @@ def my_each(array)
     end
   array
   else
-    puts "The array is empty."
+   "The array is empty."
   end
 end
